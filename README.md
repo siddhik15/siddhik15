@@ -1,14 +1,3 @@
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│              💖 Siddhi Kakade                                │
-│                                                              │
-│      AI Engineer • Data Scientist • GenAI Enthusiast         │
-│                                                              │
-│     🤖 LLMs • RAG • Machine Learning • Power BI • SQL        │
-│                                                              │
-│        "Turning Data into Intelligent Solutions."            │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
 
 ---
 
