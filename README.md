@@ -42,7 +42,45 @@ Passionate about building intelligent AI solutions using Machine Learning, Deep 
 ---
 
 # 🛠️ Tech Stack
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,git,github,vscode,flask"/>
+
+</p>### 🤖 AI & Data Science
+
+- TensorFlow
+- Keras
+- Scikit-learn
+- NumPy
+- Pandas
+- OpenCV
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
+
+### 🧠 Generative AI
+
+- LLMs
+- RAG
+- FAISS
+- Hugging Face
+- Ollama
+- Sentence Transformers
+- Prompt Engineering
+- Semantic Search
+
+### 📊 ML Concepts
+
+- ANN
+- CNN
+- RNN
+- LSTM
+- Regression
+- Classification
+- Clustering
+- NLP
+- Computer Vision
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
