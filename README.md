@@ -5,155 +5,159 @@ AI Engineer • Data Scientist • Machine Learning & Generative AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building intelligent AI solutions using Machine Learning, Deep Learning, Large Language Models (LLMs), Data Analytics, and Business Intelligence.
+Passionate about building intelligent solutions with Artificial Intelligence, Data Science, Machine Learning, and Large Language Models.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=siddhik15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=siddhik15&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🌸 About Me
 
-🎓 Computer Engineering Graduate (2026)
+👩‍🎓 Computer Engineering Graduate (2026)
 
-💡 Passionate about Artificial Intelligence, Data Science, Machine Learning, and Generative AI.
+💖 Passionate about Artificial Intelligence, Data Science, Machine Learning, Deep Learning, and Generative AI.
 
-🚀 I enjoy building AI-powered applications, analyzing data to solve real-world business problems, and continuously learning emerging technologies.
+💡 I enjoy transforming ideas into intelligent applications through data, machine learning, and modern AI technologies.
 
-🌱 **Currently Learning**
-- Advanced SQL
-- Power BI
-- Transformers & Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Advanced Prompt Engineering
+✨ **Currently Learning**
+- 🗄️ Advanced SQL
+- 📊 Power BI
+- 🤖 Transformers & Large Language Models (LLMs)
+- 📄 Retrieval-Augmented Generation (RAG)
+- 🧠 AI Agents
+- ✨ Advanced Prompt Engineering
 
 🎯 **Areas of Interest**
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Natural Language Processing (NLP)
+- Natural Language Processing
+- Data Analytics
 - Generative AI
-- Data Science
 - Business Intelligence
+
+> 🌷 *"Always curious. Always learning. Always building."*
 
 ---
 
-# 🛠️ Tech Stack
-<p align="center">
+# 🌐 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,git,github,vscode,flask"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/siddhi-kakade1542005/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>### 🤖 AI & Data Science
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- TensorFlow
-- Keras
-- Scikit-learn
-- NumPy
-- Pandas
-- OpenCV
-- Matplotlib
-- Seaborn
-- Power BI
-- Tableau
+<a href="https://github.com/siddhik15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-### 🧠 Generative AI
+---
 
-- LLMs
-- RAG
-- FAISS
-- Hugging Face
-- Ollama
-- Sentence Transformers
-- Prompt Engineering
-- Semantic Search
+# 💻 Tech Stack
 
-### 📊 ML Concepts
-
-- ANN
-- CNN
-- RNN
-- LSTM
-- Regression
-- Classification
-- Clustering
-- NLP
-- Computer Vision
-### 💻 Programming Languages
+### 👩‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 AI & Machine Learning
 
-Python • NumPy • Pandas • Scikit-learn • TensorFlow • Keras • OpenCV • Matplotlib • Seaborn
+Python • NumPy • Pandas • Scikit-learn • TensorFlow • Keras • OpenCV
+
+ANN • CNN • RNN • LSTM • NLP • Computer Vision
+
+Regression • Classification • Clustering • Model Evaluation
 
 ### 🧠 Generative AI
 
-LLMs • Hugging Face • Ollama • FAISS • Prompt Engineering • RAG
+LLMs • RAG • FAISS • Hugging Face • Ollama
+
+Prompt Engineering • Sentence Transformers • Semantic Search
 
 ### 📊 Data Analytics
 
-SQL • Power BI • Excel
+SQL • Power BI • Tableau
 
-### ⚙️ Frameworks & Tools
+Pandas • NumPy • EDA • Feature Engineering
 
-Flask • Streamlit • Git • GitHub • VS Code • Jupyter Notebook
+Matplotlib • Seaborn • Statistical Analysis
+
+### 🗄️ Databases
+
+MySQL • MongoDB • SQLite
+
+### ⚙️ Frameworks
+
+Flask • Streamlit
+
+### 🛠️ Developer Tools
+
+Git • GitHub • VS Code
+
+Jupyter Notebook • Google Colab • Anaconda
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **Intelligent Document Question Answering System** | Built a Retrieval-Augmented Generation (RAG) application using LLMs, FAISS, Ollama, and Streamlit for intelligent document-based question answering. |
-| 📈 **AI-Based Financial Time Series Forecasting** | Developed an LSTM-based deep learning model to forecast stock prices using historical financial data. |
-| 😊 **Real-Time Emotion Detection** | Designed a CNN model for real-time facial emotion recognition using OpenCV and TensorFlow. |
-| 🔍 **Industrial Surface Crack Detection** | Built a deep learning model for automated industrial defect detection using Convolutional Neural Networks. |
-| 🎗️ **Breast Cancer Predictive Analysis** | Developed machine learning models to predict breast cancer outcomes using data preprocessing and feature engineering techniques. |
-| 📊 **Amazon Sales Dashboard** | Created an interactive Power BI dashboard to analyze sales, profit, customer behavior, and business performance using DAX and Power Query. |
+📄 **Intelligent Document Question Answering using RAG & LLMs**
+
+📈 **AI-Based Financial Time Series Forecasting using LSTM**
+
+😊 **Real-Time Emotion Detection using CNN**
+
+🔍 **Industrial Surface Crack Detection**
+
+🎗️ **Breast Cancer Predictive Analysis**
+
+📊 **Amazon Sales Dashboard (Power BI)**
 
 ---
 
 # 📜 Certifications
 
-- 🎓 Google Data Analytics Professional Certificate
-- 🤖 Python, Machine Learning & Generative AI Training – Marvellous Infosystems
-- 📊 IBM Certification – Data Analysis with Python
+🎓 Google Data Analytics Professional Certificate
+
+🤖 Python, Machine Learning & Generative AI Training — Marvellous Infosystems
+
+📊 IBM Certification — Data Analysis with Python
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=rose_pine"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=rose_pine"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=siddhik15&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=siddhik15&theme=rose-pine"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌸 Quote of the Day
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/siddhi-kakade1542005/
-
-💻 **GitHub**  
-https://github.com/siddhik15
-
-📧 **Email**  
-siddhiik15@gmail.com
+> *"Every expert was once a beginner who refused to give up."* 🌷
 
 ---
 
-# 💭 Quote
-
-> **"The best way to predict the future is to build it with curiosity, consistency, and continuous learning."** 🚀
+<p align="center">
+✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+</p>
