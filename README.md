@@ -112,7 +112,7 @@ https://www.linkedin.com/in/siddhi-kakade1542005/
 https://github.com/siddhik15
 
 📧 **Email**  
-your-email@example.com
+siddhiik15@gmail.com
 
 ---
 
