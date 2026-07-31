@@ -1,6 +1,12 @@
 
 ---
+<p align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=rose_pine"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=rose_pine"/>
+
+</p>
 # 🌸 About Me
 
 👩‍🎓 Computer Engineering Graduate (2026)
