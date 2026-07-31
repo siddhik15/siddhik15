@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Siddhi Kakade</h1>
-
-<h3 align="center">
-AI Engineer • Data Scientist • Machine Learning & Generative AI Enthusiast
-</h3>
-
-<p align="center">
-Passionate about building intelligent solutions with Artificial Intelligence, Data Science, Machine Learning, and Large Language Models.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=siddhik15&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│              💖 Siddhi Kakade                                │
+│                                                              │
+│      AI Engineer • Data Scientist • GenAI Enthusiast         │
+│                                                              │
+│     🤖 LLMs • RAG • Machine Learning • Power BI • SQL        │
+│                                                              │
+│        "Turning Data into Intelligent Solutions."            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
 ---
 
