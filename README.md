@@ -6,13 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Siddhi%20Kakade&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20AI&descAlignY=68"/>
 </p>
 
-<h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Siddhi Kakade
-</h1>
 
-<h3 align="center">
-💖 AI Engineer • Data Scientist • Machine Learning • Generative AI
-</h3>
 
 <p align="center">
 
@@ -22,17 +16,3 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 
 ---
-
-# 💬 Quote of the day
-
-> 🌸 *"Small progress each day leads to extraordinary results."*
-
----
-
-<p align="center">
-
-💖 Thanks for visiting my profile!
-
-Let's build something amazing with AI.
-
-</p>
