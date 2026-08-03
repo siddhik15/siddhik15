@@ -22,7 +22,7 @@
 
 # 💫 About Me
 <div style="background-color:#ff4fa3; border: 2px solid #ff4fa3; padding: 20px;">
-
+<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 <img align="right" width="280" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 
 
