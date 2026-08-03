@@ -35,42 +35,51 @@
 </div>
 
 ---
-
 # 💻 Technical Skills
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 
 ### 👨‍💻 Languages  
-- Python  
-- SQL  
-- C++  
-- JavaScript  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4fa3)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ff4fa3)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff4fa3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff4fa3)
 
 ### 🤖 Machine Learning & Deep Learning  
-- Scikit-learn, TensorFlow, Keras  
-- ANN, CNN, RNN, LSTM  
-- Computer Vision, NLP  
-- Regression, Classification, Clustering  
-- Model Evaluation  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=ff4fa3)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=ff4fa3)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=ff4fa3)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ff4fa3)
 
 ### 🚀 Generative AI  
-- LLMs, RAG, Prompt Engineering  
-- FAISS, Ollama, Hugging Face  
-- Sentence Transformers, Semantic Search  
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=ff4fa3)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=ff4fa3)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=ff4fa3)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=ff4fa3)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=ff4fa3)
 
 ### 📊 Data Science  
-- Pandas, NumPy, EDA, Data Cleaning  
-- Feature Engineering, Statistical Analysis  
-- Matplotlib, Seaborn, Power BI, Tableau  
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ff4fa3)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ff4fa3)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=ff4fa3)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=ff4fa3)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=ff4fa3)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=ff4fa3)
 
 ### 🗄️ Databases  
-- MySQL, MongoDB  
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff4fa3)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff4fa3)
 
 ### ⚙️ Tools  
-- Git, GitHub, Streamlit  
-- Jupyter Notebook, Google Colab  
-- VS Code, Anaconda  
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4fa3)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff4fa3)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=ff4fa3)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=ff4fa3)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=ff4fa3)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff4fa3)
+![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=ff4fa3)
 
 </div>
+
 
 ---
 
