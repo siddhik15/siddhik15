@@ -9,15 +9,15 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/siddhi-kakade">
-<img src="https://img.shields.io/badge/LinkedIn-ff4fa3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-ff4fa3?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:siddhik15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-ff4fa3?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/siddhik15">
-<img src="https://img.shields.io/badge/GitHub-ff4fa3?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ff4fa3?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
