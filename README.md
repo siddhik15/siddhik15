@@ -36,67 +36,46 @@
 
 ---
 # 💻 Technical Skills
-<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
-
+<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 15px; color:#ff4fa3;">
 ### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff4fa3)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ff4fa3)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff4fa3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff4fa3)
-
+![Python](https://img.shields.io/badge/Python-ff4fa3?style=flat-square&logo=python&logoColor=000000) 
+![SQL](https://img.shields.io/badge/SQL-ff4fa3?style=flat-square&logo=mysql&logoColor=000000) 
+![C++](https://img.shields.io/badge/C++-ff4fa3?style=flat-square&logo=cplusplus&logoColor=000000) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ff4fa3?style=flat-square&logo=javascript&logoColor=000000)
 ### 🤖 Machine Learning & Deep Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=ff4fa3)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=ff4fa3)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=ff4fa3)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=ff4fa3)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff4fa3?style=flat-square&logo=tensorflow&logoColor=000000) 
+![Keras](https://img.shields.io/badge/Keras-ff4fa3?style=flat-square&logo=keras&logoColor=000000) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ff4fa3?style=flat-square&logo=scikitlearn&logoColor=000000) 
+![OpenCV](https://img.shields.io/badge/OpenCV-ff4fa3?style=flat-square&logo=opencv&logoColor=000000)
 ### 🚀 Generative AI  
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=ff4fa3)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=ff4fa3)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=ff4fa3)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=ff4fa3)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=ff4fa3)
-
+![LLMs](https://img.shields.io/badge/LLMs-ff4fa3?style=flat-square&logo=openai&logoColor=000000) 
+![RAG](https://img.shields.io/badge/RAG-ff4fa3?style=flat-square&logoColor=000000) 
+![FAISS](https://img.shields.io/badge/FAISS-ff4fa3?style=flat-square&logoColor=000000) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ff4fa3?style=flat-square&logo=huggingface&logoColor=000000) 
+![Ollama](https://img.shields.io/badge/Ollama-ff4fa3?style=flat-square&logoColor=000000)
 ### 📊 Data Science  
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ff4fa3)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ff4fa3)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=ff4fa3)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=ff4fa3)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=ff4fa3)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=ff4fa3)
-
+![Pandas](https://img.shields.io/badge/Pandas-ff4fa3?style=flat-square&logo=pandas&logoColor=000000) 
+![NumPy](https://img.shields.io/badge/NumPy-ff4fa3?style=flat-square&logo=numpy&logoColor=000000) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff4fa3?style=flat-square&logoColor=000000) 
+![Seaborn](https://img.shields.io/badge/Seaborn-ff4fa3?style=flat-square&logoColor=000000) 
+![Power BI](https://img.shields.io/badge/Power%20BI-ff4fa3?style=flat-square&logo=powerbi&logoColor=000000) 
+![Tableau](https://img.shields.io/badge/Tableau-ff4fa3?style=flat-square&logo=tableau&logoColor=000000)
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff4fa3)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff4fa3)
-
+![MySQL](https://img.shields.io/badge/MySQL-ff4fa3?style=flat-square&logo=mysql&logoColor=000000) 
+![MongoDB](https://img.shields.io/badge/MongoDB-ff4fa3?style=flat-square&logo=mongodb&logoColor=000000)
 ### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4fa3)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff4fa3)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=ff4fa3)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=ff4fa3)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=ff4fa3)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff4fa3)
-![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=ff4fa3)
+![Git](https://img.shields.io/badge/Git-ff4fa3?style=flat-square&logo=git&logoColor=000000) 
+![GitHub](https://img.shields.io/badge/GitHub-ff4fa3?style=flat-square&logo=github&logoColor=000000) 
+![Streamlit](https://img.shields.io/badge/Streamlit-ff4fa3?style=flat-square&logo=streamlit&logoColor=000000) 
+![Jupyter](https://img.shields.io/badge/Jupyter-ff4fa3?style=flat-square&logo=jupyter&logoColor=000000) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-ff4fa3?style=flat-square&logo=googlecolab&logoColor=000000) 
+![VS Code](https://img.shields.io/badge/VS%20Code-ff4fa3?style=flat-square&logo=visualstudiocode&logoColor=000000) 
+![Anaconda](https://img.shields.io/badge/Anaconda-ff4fa3?style=flat-square&logo=anaconda&logoColor=000000)
 
 </div>
 
 
 ---
-
-# 📌 Featured Projects
-<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
-
-- **Intelligent Document QA System** – RAG + LLMs for PDF Q&A  
-- **SmartHire AI Mock Interview Agent** – AI-powered interview simulator with scoring & feedback  
-- **Industrial Surface Crack Detection** – CNN model for defect detection  
-- **Financial Time-Series Forecasting** – LSTM-based stock prediction  
-- **Real-Time Image Classification** – Live webcam classification with MobileNetV2  
-- **BreastCare AI Diagnostic System** – Streamlit dashboard for cancer prediction  
-
-</div>
-
----
-
 # 📜 Certifications
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 
@@ -142,7 +121,6 @@
 <div align="center" style="background-color:#ff4fa3; padding: 20px;">
 
 ### ⭐ Thanks for visiting my profile!  
-*"Building intelligent solutions with AI, one project at a time."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff4fa3&text=&fontColor=000000"/>
 
