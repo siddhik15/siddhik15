@@ -27,10 +27,12 @@
 # 💫 About Me
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 
+<img align="right" width="280" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
 👋 Hi, I'm **Siddhi Kakade**  
-🎓 Computer Engineering Graduate (CGPA: 8.76)  
-🤖 AI/ML Engineer | Generative AI | Data Science  
-💡 Experienced in **Python, Machine Learning, Deep Learning, RAG, and LLMs**  
+🎓 Computer Engineering Graduate  
+🤖 AI Engineer | Machine Learning | Generative AI  
+💡 Passionate about building intelligent applications using **Python, ML, DL, RAG, and LLMs**  
 📍 Pune, Maharashtra, India  
 🌸 Always curious, always building.  
 
@@ -38,39 +40,34 @@
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 
 ### 👨‍💻 Languages  
-- Python  
-- SQL  
-- C++  
-- JavaScript  
+![Python](https://img.shields.io/badge/Python-ff4fa3?style=for-the-badge&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C++-ff4fa3?style=for-the-badge&logo=cplusplus&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-ff4fa3?style=for-the-badge&logo=mysql&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff4fa3?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 Machine Learning & Deep Learning  
-- Scikit-learn, TensorFlow, Keras  
-- ANN, CNN, RNN, LSTM  
-- Computer Vision, NLP  
-- Regression, Classification, Clustering  
-- Model Evaluation  
-
-### 🚀 Generative AI  
-- LLMs, RAG, Prompt Engineering  
-- FAISS, Ollama, Hugging Face  
-- Sentence Transformers, Semantic Search  
+### 🤖 AI • ML • DL  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff4fa3?style=for-the-badge&logo=tensorflow&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-ff4fa3?style=for-the-badge&logo=keras&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ff4fa3?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-ff4fa3?style=for-the-badge&logo=opencv&logoColor=black)
 
 ### 📊 Data Science  
-- Pandas, NumPy, EDA, Data Cleaning  
-- Feature Engineering, Statistical Analysis  
-- Matplotlib, Seaborn, Power BI, Tableau  
+![Pandas](https://img.shields.io/badge/Pandas-ff4fa3?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-ff4fa3?style=for-the-badge&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff4fa3?style=for-the-badge&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-ff4fa3?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-ff4fa3?style=for-the-badge&logo=tableau&logoColor=black)
 
-### 🗄️ Databases  
-- MySQL, MongoDB  
-
-### ⚙️ Tools  
-- Git, GitHub, Streamlit  
-- Jupyter Notebook, Google Colab  
-- VS Code, Anaconda  
+### 🚀 Generative AI  
+![RAG](https://img.shields.io/badge/RAG-ff4fa3?style=for-the-badge&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-ff4fa3?style=for-the-badge&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-ff4fa3?style=for-the-badge&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-ff4fa3?style=for-the-badge&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ff4fa3?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -79,23 +76,12 @@
 # 📌 Featured Projects
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 
-- **Intelligent Document QA System** – RAG + LLMs for PDF Q&A  
-- **SmartHire AI Mock Interview Agent** – AI-powered interview simulator with scoring & feedback  
-- **Industrial Surface Crack Detection** – CNN model for defect detection  
-- **Financial Time-Series Forecasting** – LSTM-based stock prediction  
-- **Real-Time Image Classification** – Live webcam classification with MobileNetV2  
-- **BreastCare AI Diagnostic System** – Streamlit dashboard for cancer prediction  
-
-</div>
-
----
-
-# 📜 Certifications
-<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
-
-🏅 Google Data Analytics Professional Certificate  
-🏅 IBM Data Analysis with Python  
-🏅 Python, Machine Learning & Generative AI Training – Marvellous Infosystems  
+- **[Intelligent Document QA System](https://github.com/siddhik15/Intelligent_Document_QA_System_using-RAG_and_LLM)** – RAG + LLMs for PDF Q&A  
+- **[SmartHire AI Mock Interview Agent](https://github.com/siddhik15/AI-Mock-Interview-Agent)** – AI-powered interview simulator with scoring & feedback  
+- **[Industrial Surface Crack Detection](https://github.com/siddhik15/Industrial-Surface-Crack-Detection-CNN)** – CNN model for defect detection  
+- **[Financial Time-Series Forecasting](https://github.com/siddhik15/AI-Based-Financial-Time-Series-Forecasting-using-LSTM)** – LSTM-based stock prediction  
+- **[Real-Time Image Classification](https://github.com/siddhik15/Real-Time-Image-Classification-using-MobileNetV2-and-OpenCV)** – Live webcam classification  
+- **[BreastCare AI Diagnostic System](https://github.com/siddhik15/BreastCare_AI-Diagnostic_System)** – Streamlit dashboard for cancer prediction  
 
 </div>
 
