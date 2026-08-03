@@ -96,10 +96,9 @@
 
 # 📊 GitHub Statistics
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=radical"/>
 </p>
 
 
