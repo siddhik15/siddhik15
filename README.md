@@ -37,22 +37,26 @@
 ---
 # 💻 Technical Skills
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 15px; color:#ff4fa3;">
+
 ### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/Python-ff4fa3?style=flat-square&logo=python&logoColor=000000) 
 ![SQL](https://img.shields.io/badge/SQL-ff4fa3?style=flat-square&logo=mysql&logoColor=000000) 
 ![C++](https://img.shields.io/badge/C++-ff4fa3?style=flat-square&logo=cplusplus&logoColor=000000) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff4fa3?style=flat-square&logo=javascript&logoColor=000000)
+
 ### 🤖 Machine Learning & Deep Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff4fa3?style=flat-square&logo=tensorflow&logoColor=000000) 
 ![Keras](https://img.shields.io/badge/Keras-ff4fa3?style=flat-square&logo=keras&logoColor=000000) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ff4fa3?style=flat-square&logo=scikitlearn&logoColor=000000) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-ff4fa3?style=flat-square&logo=opencv&logoColor=000000)
+
 ### 🚀 Generative AI  
 ![LLMs](https://img.shields.io/badge/LLMs-ff4fa3?style=flat-square&logo=openai&logoColor=000000) 
 ![RAG](https://img.shields.io/badge/RAG-ff4fa3?style=flat-square&logoColor=000000) 
 ![FAISS](https://img.shields.io/badge/FAISS-ff4fa3?style=flat-square&logoColor=000000) 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-ff4fa3?style=flat-square&logo=huggingface&logoColor=000000) 
 ![Ollama](https://img.shields.io/badge/Ollama-ff4fa3?style=flat-square&logoColor=000000)
+
 ### 📊 Data Science  
 ![Pandas](https://img.shields.io/badge/Pandas-ff4fa3?style=flat-square&logo=pandas&logoColor=000000) 
 ![NumPy](https://img.shields.io/badge/NumPy-ff4fa3?style=flat-square&logo=numpy&logoColor=000000) 
@@ -60,9 +64,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-ff4fa3?style=flat-square&logoColor=000000) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-ff4fa3?style=flat-square&logo=powerbi&logoColor=000000) 
 ![Tableau](https://img.shields.io/badge/Tableau-ff4fa3?style=flat-square&logo=tableau&logoColor=000000)
+
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-ff4fa3?style=flat-square&logo=mysql&logoColor=000000) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-ff4fa3?style=flat-square&logo=mongodb&logoColor=000000)
+
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-ff4fa3?style=flat-square&logo=git&logoColor=000000) 
 ![GitHub](https://img.shields.io/badge/GitHub-ff4fa3?style=flat-square&logo=github&logoColor=000000) 
@@ -73,6 +79,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-ff4fa3?style=flat-square&logo=anaconda&logoColor=000000)
 
 </div>
+
 
 
 ---
