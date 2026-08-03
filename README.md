@@ -207,3 +207,265 @@ Jupyter Notebook • Google Colab
 </div>
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📄 Intelligent Document Question Answering System
+
+AI-powered Retrieval-Augmented Generation (RAG) application that answers questions from PDF documents using Llama 3.
+
+#### ✨ Features
+
+- 📄 PDF Question Answering
+- 🧠 Semantic Search
+- 🔍 FAISS Vector Database
+- 🤖 Llama3 + Ollama
+- 💬 Prompt Engineering
+- ⚡ Interactive Streamlit UI
+
+**Tech Stack**
+
+`Python`
+`Streamlit`
+`FAISS`
+`Sentence Transformers`
+`Ollama`
+`Llama3`
+
+</td>
+
+<td width="50%">
+
+### 🤖 SmartHire – AI Mock Interview Agent
+
+AI-powered interview simulator using Large Language Models.
+
+#### ✨ Features
+
+- 🎯 Technical Interview Simulation
+- 📊 Interview Scoring
+- 📝 AI Feedback
+- 💬 Prompt Engineering
+- 🤖 LLM-based Evaluation
+
+**Tech Stack**
+
+`Python`
+`LLMs`
+`Ollama`
+`Streamlit`
+`Prompt Engineering`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 AI Financial Time-Series Forecasting
+
+Deep Learning model for predicting stock prices using historical financial data.
+
+#### ✨ Features
+
+- 📈 Stock Prediction
+- 🧠 LSTM Network
+- 📊 Data Visualization
+- 📉 Time-Series Forecasting
+
+**Tech Stack**
+
+`TensorFlow`
+`Keras`
+`Python`
+`NumPy`
+`Pandas`
+`Scikit-Learn`
+
+</td>
+
+<td width="50%">
+
+### 🔍 Industrial Surface Crack Detection
+
+Computer Vision model for automated defect detection in industrial surfaces.
+
+#### ✨ Features
+
+- 👁️ Image Classification
+- 🤖 CNN Model
+- 📷 OpenCV
+- 🎯 Industrial Quality Inspection
+
+**Tech Stack**
+
+`TensorFlow`
+`Keras`
+`CNN`
+`OpenCV`
+`Python`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
+
+## 📊 Data Analyst Intern
+
+### Cognifyz Technologies
+
+📅 **Feb 2025 – Mar 2025**
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Data Visualization
+
+✔ Python
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
+✔ Seaborn
+
+✔ Analytical Reporting
+
+---
+
+# 📜 Certifications
+
+🏅 Google Data Analytics Professional Certificate
+
+🏅 IBM Data Analysis with Python
+
+🏅 Python, Machine Learning & Generative AI Training
+
+---
+
+# 🏆 Achievements
+
+✨ Developed **6+ AI & Machine Learning Projects**
+
+✨ Built **Generative AI & RAG Applications**
+
+✨ Developed Deep Learning Models using CNN & LSTM
+
+✨ Hands-on experience in Data Science & Analytics
+
+✨ Strong Academic Performance (CGPA: 8.76)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=siddhik15&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhik15&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddhik15&theme=radical&margin-w=10&margin-h=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhik15&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhik15&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhik15&theme=radical"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/siddhi-kakade1542005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:siddhik15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/siddhik15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+### *"Transforming ideas into intelligent AI solutions through code, data, and innovation."*
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
+</div>
