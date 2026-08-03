@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#ff4fa3; padding: 20px;">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=ff4fa3&text=Siddhi%20Kakade&fontSize=52&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=22&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=ff4fa3&text=Siddhi%20Kakade&fontSize=52&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=AspiringAI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=22&descAlignY=60"/>
 
 <br>
 
@@ -98,7 +98,6 @@
 <div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
