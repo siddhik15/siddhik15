@@ -1,33 +1,38 @@
-
 <div align="center">
 
-# Hi 👋, I'm Siddhi Kakade
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Siddhi Kakade
 
 ### AI Engineer • Machine Learning • Data Science • Generative AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Data+Science+Explorer;Building+Real+World+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Real+World+AI+Applications;Python+Developer;Data+Science+Explorer"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=siddhik15&style=for-the-badge&color=ff69b4"/>
+<img src="https://komarev.com/ghpvc/?username=siddhik15&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/siddhik15?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/siddhik15?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/siddhik15?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/siddhik15?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
 ---
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 # 👩‍💻 About Me
 
-🎓 Computer Engineering Graduate from Pune, India
+🎓 Computer Engineering Graduate
 
-💖 Passionate about Artificial Intelligence, Machine Learning, Data Science and Generative AI.
+💗 Passionate about Artificial Intelligence, Machine Learning, Data Science and Generative AI.
 
-💡 I enjoy transforming ideas into intelligent applications using Machine Learning, Deep Learning and Large Language Models.
+💡 I enjoy designing intelligent systems that solve real-world problems through AI.
 
-🚀 I love building practical AI solutions that solve real-world problems.
+🚀 My interests include Machine Learning, Deep Learning, NLP, Computer Vision, RAG and Large Language Models.
+
+🌸 I believe AI should be practical, explainable and impactful.
+
+📍 Pune, Maharashtra, India
 
 ---
 
@@ -35,17 +40,13 @@
 
 <div align="center">
 
-| Machine Learning | Deep Learning | NLP |
-|:---------------:|:-------------:|:---:|
-| ✅ | ✅ | ✅ |
-
-| Computer Vision | Generative AI | RAG |
-|:---------------:|:-------------:|:---:|
-| ✅ | ✅ | ✅ |
-
-| Semantic Search | Data Science | Predictive Analytics |
-|:---------------:|:-------------:|:--------------------:|
-| ✅ | ✅ | ✅ |
+| 🤖 AI | 📊 Data | 🚀 GenAI |
+|:-----:|:-------:|:-------:|
+| Machine Learning | Data Science | Large Language Models |
+| Deep Learning | Data Analytics | Prompt Engineering |
+| NLP | Data Cleaning | Retrieval-Augmented Generation |
+| Computer Vision | EDA | Semantic Search |
+| Predictive Analytics | Feature Engineering | FAISS |
 
 </div>
 
@@ -53,17 +54,17 @@
 
 # ⚡ Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
 </p>
 
@@ -73,15 +74,26 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
 
 </p>
 
 <div align="center">
 
-Scikit-Learn • Keras • CNN • ANN • RNN • LSTM
+| Frameworks | Algorithms |
+|------------|------------|
+| TensorFlow | CNN |
+| Keras | ANN |
+| Scikit-Learn | RNN |
+| OpenCV | LSTM |
+
+</div>
+
+<br>
+
+<div align="center">
 
 Regression • Classification • Clustering
 
@@ -95,12 +107,12 @@ Model Evaluation • Feature Engineering
 
 <div align="center">
 
-| Technology | Status |
-|------------|--------|
-| Large Language Models (LLMs) | ✅ |
-| Retrieval-Augmented Generation (RAG) | ✅ |
+| Technology | Experience |
+|------------|------------|
+| Large Language Models | ✅ |
+| Retrieval-Augmented Generation | ✅ |
 | Prompt Engineering | ✅ |
-| FAISS | ✅ |
+| FAISS Vector Database | ✅ |
 | Ollama | ✅ |
 | Hugging Face | ✅ |
 | Sentence Transformers | ✅ |
@@ -114,27 +126,23 @@ Model Evaluation • Feature Engineering
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </p>
 
 <div align="center">
 
-Pandas • NumPy
-
-Matplotlib • Seaborn
-
-EDA
-
-Data Cleaning
-
-Feature Engineering
-
-Statistical Analysis
-
-Power BI
-
-Tableau
+EDA • Data Cleaning • Statistical Analysis • Feature Engineering
 
 </div>
 
@@ -150,13 +158,11 @@ Tableau
 
 ---
 
-## ⚙ Frameworks & Tools
+## 🛠️ Tools & Platforms
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode,anaconda"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
 
 </p>
 
@@ -168,17 +174,17 @@ Jupyter Notebook • Google Colab
 
 ---
 
-<div align="center">
+# 💖 What I Love Building
 
-## 💡 What I Love Building
+<div align="center">
 
 🧠 AI Applications
 
-📄 RAG Systems
+📄 Intelligent Document QA Systems
 
-🤖 LLM Powered Apps
+🤖 LLM-Powered Applications
 
-📊 Data Science Dashboards
+📊 Data Analytics Dashboards
 
 📈 Predictive Models
 
@@ -187,6 +193,16 @@ Jupyter Notebook • Google Colab
 💬 NLP Applications
 
 ⚡ Streamlit Projects
+
+📚 End-to-End Machine Learning Pipelines
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 "Turning Data into Intelligence with AI."
 
 </div>
 
