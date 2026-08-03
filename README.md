@@ -151,3 +151,207 @@
 </div>
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📄 Intelligent Document Question Answering System
+
+AI-powered RAG application that answers questions from PDF documents using **Llama 3**.
+
+**Tech Stack**
+
+`Python` `Streamlit` `FAISS`
+
+`Sentence Transformers`
+
+`Ollama`
+
+`LLM`
+
+⭐ Semantic Search
+
+⭐ Vector Database
+
+⭐ PDF Question Answering
+
+</td>
+
+<td width="50%">
+
+### 🤖 SmartHire – AI Mock Interview Agent
+
+AI Interview Platform powered by Large Language Models.
+
+**Tech Stack**
+
+`Python`
+
+`LLMs`
+
+`Prompt Engineering`
+
+`Streamlit`
+
+⭐ AI Interview
+
+⭐ Performance Analysis
+
+⭐ Intelligent Feedback
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Financial Time-Series Forecasting
+
+Deep Learning model for stock prediction using historical data.
+
+**Tech Stack**
+
+`Python`
+
+`TensorFlow`
+
+`Keras`
+
+`LSTM`
+
+⭐ Forecasting
+
+⭐ Data Visualization
+
+⭐ Time Series
+
+</td>
+
+<td width="50%">
+
+### 🔍 Industrial Surface Crack Detection
+
+CNN-based Computer Vision application for automated defect detection.
+
+**Tech Stack**
+
+`Python`
+
+`TensorFlow`
+
+`OpenCV`
+
+`CNN`
+
+⭐ Image Classification
+
+⭐ Quality Inspection
+
+⭐ Deep Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
+
+### 📊 Data Analyst Intern
+
+**Cognifyz Technologies**
+
+- 📌 Data Cleaning & Preprocessing
+- 📌 Exploratory Data Analysis
+- 📌 Data Visualization
+- 📌 Python • Pandas • NumPy
+- 📌 Analytical Reporting
+
+---
+
+# 📜 Certifications
+
+🏅 Google Data Analytics Professional Certificate
+
+🏅 IBM Data Analysis with Python
+
+🏅 Python, Machine Learning & Generative AI
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=siddhik15&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhik15&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/siddhi-kakade1542005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/siddhik15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent solutions with AI, one project at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff4fa3,50:c471ed,100:6c63ff"/>
+
+</div>
