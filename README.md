@@ -16,18 +16,15 @@
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4fa3"/>
 </a>
 
-<a href="https://github.com/siddhik15">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff4fa3"/>
-</a>
-
 </div>
 
 ---
 
 # 💫 About Me
-<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
+<div style="background-color:#ff4fa3; border: 2px solid #ff4fa3; padding: 20px;">
 
-<img align="right" width="280" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
+
 
 👋 Hi, I'm **Siddhi Kakade**  
 🎓 Computer Engineering Graduate  
