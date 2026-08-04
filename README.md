@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Real+World+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=1111&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Real+World+AI+Applications"/>
 
 <br><br>
 
