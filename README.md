@@ -112,7 +112,6 @@
 
 </div>
 
----
 <div>
 <p align="center">
   <img src="./assets/developer-quote.png" width="650">
