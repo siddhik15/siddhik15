@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/siddhi-kakade">
+<a href="https://www.linkedin.com/in/siddhi-kakade1542005/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff4fa3"/>
 </a>
 
