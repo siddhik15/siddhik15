@@ -95,26 +95,25 @@
 ---
 
 # 📊 GitHub Statistics
-<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&theme=radical"/>
-</p>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhik15&show_icons=true&bg_color=0D1117&title_color=FF4FA3&text_color=FFFFFF&icon_color=FF4FA3&border_color=FF4FA3&hide_border=false"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=siddhik15&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhik15&layout=compact&bg_color=0D1117&title_color=FF4FA3&text_color=FFFFFF&border_color=FF4FA3&hide_border=false"/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhik15&theme=tokyo-night&hide_border=true"/>
-</p>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=siddhik15&background=0D1117&border=FF4FA3&stroke=FF4FA3&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3&sideLabels=FF4FA3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFC0CB"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhik15&bg_color=0D1117&color=FFFFFF&line=FF4FA3&point=FFC0CB&area=true&area_color=FF4FA3&title_color=FF4FA3&hide_border=false"/>
 
 </div>
 
 <div>
 <p align="center">
-  <img src="./assets/developer-quote.png" width="650">
+  <img src="./assets/developer-quote.png" width="600" height="200">
 </p>
 
 </div>
