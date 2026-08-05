@@ -114,9 +114,6 @@
 
 ---
 
-# 💬 Developer Quote
-<div align="center">
-
 <table>
 <tr>
 <td align="center" style="padding:20px; border:2px solid #ff4fa3; border-radius:12px; background-color:#0d1117;">
@@ -134,12 +131,9 @@
 </table>
 
 </div>
----
 
-<div align="center" style="background-color:#ff4fa3; padding: 20px;">
+
 
 ### ⭐ Thanks for visiting my profile!  
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff4fa3&text=&fontColor=000000"/>
-
 </div>
