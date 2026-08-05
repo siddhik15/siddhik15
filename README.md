@@ -113,7 +113,7 @@
 
 <div>
 <p align="center">
-  <img src="./assets/developer-quote.png" width="100%" height="300">
+  <img src="./assets/developer-quote.png" width="100%" height="400">
 </p>
 
 </div>
