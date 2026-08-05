@@ -115,14 +115,25 @@
 ---
 
 # 💬 Developer Quote
-<div style="background-color:#000000; border: 2px solid #ff4fa3; padding: 20px;">
+<div align="center">
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<table>
+<tr>
+<td align="center" style="padding:20px; border:2px solid #ff4fa3; border-radius:12px; background-color:#0d1117;">
+
+<h3>💭 Developer Quote</h3>
+
+<p>
+<i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 
-</div>
+<b>— Cory House</b>
 
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 <div align="center" style="background-color:#ff4fa3; padding: 20px;">
