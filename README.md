@@ -117,7 +117,7 @@
 <table>
 <tr>
 <td align="center" style="padding:20px; border:2px solid #ff4fa3; border-radius:12px; background-color:#0d1117;">
-
+<div align="center" style="background-color:#ff4fa3; padding: 20px;">
 <h3>💭 Developer Quote</h3>
 
 <p>
