@@ -113,22 +113,10 @@
 </div>
 
 ---
-
-<table>
-<tr>
-<td align="center" style="padding:20px; border:2px solid #ff4fa3; border-radius:12px; background-color:#0d1117;">
-<div align="center" style="background-color:#ff4fa3; padding: 20px;">
-<h3>💭 Developer Quote</h3>
-
-<p>
-<i>"Code is like humor. When you have to explain it, it's bad."</i>
+<div>
+<p align="center">
+  <img src="assets/developer-quote.png" alt="Developer Quote" width="100%">
 </p>
-
-<b>— Cory House</b>
-
-</td>
-</tr>
-</table>
 
 </div>
 <div align="center" style="background-color:#ff4fa3; padding: 20px;">
