@@ -115,7 +115,7 @@
 ---
 <div>
 <p align="center">
-  <img src="assets/developer-quote.png" alt="Developer Quote" width="100%">
+  <img src="./assets/developer-quote.png" width="650">
 </p>
 
 </div>
